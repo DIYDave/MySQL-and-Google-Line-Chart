@@ -13,6 +13,6 @@ I want make a simple website to display the data from the db as a line chart.
 > - How can I manage a date range selection? 
 > - How can i select / deselect lines on the chart?
 
-### Answeres
-You can find the more detailed answere to this questions here: ..Link zu Stackoverflow..
-or in this depositry as a allready finished php file.
+### Answers:
+You can find the more detailed answers to this questions here: ..Link zu Stackoverflow..
+or in this depository as a already finished php file.
